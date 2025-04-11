@@ -2,7 +2,6 @@
 
 🚀 *AI-powered mock interview platform using Vapi AI*
 
-![InterviewMate Logo](mlogo.png)
 
 ## **About**
 InterviewMate is an AI-powered platform that helps users practice mock interviews. It uses **Vapi AI** to generate realistic interview scenarios, evaluate responses, and provide feedback.
